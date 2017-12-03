@@ -1,0 +1,123 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "v3FvbNaR/CPHNmKqyVNLM4SXjX0=",
+			"path": "github.com/kballard/go-shellquote",
+			"revision": "d8ec1a69a250a17bb0e419c386eac1f3711dc142",
+			"revisionTime": "2015-08-10T07:47:51Z"
+		},
+		{
+			"checksumSHA1": "6WOrEA4SH+M4UPESadwZ7J4ytnE=",
+			"origin": "github.com/nextthingco/logrus-gadget-formatter/vendor/github.com/mattn/go-colorable",
+			"path": "github.com/mattn/go-colorable",
+			"revision": "179e4489846b9b904502977461ad98b3860cadf3",
+			"revisionTime": "2017-12-03T04:15:43Z"
+		},
+		{
+			"checksumSHA1": "w5RcOnfv5YDr3j2bd1YydkPiZx4=",
+			"origin": "github.com/nextthingco/logrus-gadget-formatter/vendor/github.com/mattn/go-isatty",
+			"path": "github.com/mattn/go-isatty",
+			"revision": "179e4489846b9b904502977461ad98b3860cadf3",
+			"revisionTime": "2017-12-03T04:15:43Z"
+		},
+		{
+			"checksumSHA1": "MNkKJyk2TazKMJYbal5wFHybpyA=",
+			"path": "github.com/mattn/go-runewidth",
+			"revision": "14207d285c6c197daabb5c9793d63e7af9ab2d50",
+			"revisionTime": "2017-02-01T02:35:40Z"
+		},
+		{
+			"checksumSHA1": "CIK3BBNX3nuUQCmNqTQydNfMNKI=",
+			"origin": "github.com/nextthingco/logrus-gadget-formatter/vendor/github.com/mgutz/ansi",
+			"path": "github.com/mgutz/ansi",
+			"revision": "179e4489846b9b904502977461ad98b3860cadf3",
+			"revisionTime": "2017-12-03T04:15:43Z"
+		},
+		{
+			"checksumSHA1": "8+OEIGXzU01VFkE0li8I8VL++cw=",
+			"path": "github.com/nextthingco/libgadget",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "IGKvv52vovjk3J5Vfpo0JnKQKkM=",
+			"path": "github.com/nextthingco/logrus-gadget-formatter",
+			"revision": "179e4489846b9b904502977461ad98b3860cadf3",
+			"revisionTime": "2017-12-03T04:15:43Z"
+		},
+		{
+			"checksumSHA1": "zYUTpQy17AUevrJzenxGCyFQgkQ=",
+			"path": "github.com/tmc/scp",
+			"revision": "f7b48647feef3e30991f2ecc16b2b9a977d9a7c3",
+			"revisionTime": "2017-08-24T16:23:07Z"
+		},
+		{
+			"checksumSHA1": "IQkUIOnvlf0tYloFx9mLaXSvXWQ=",
+			"path": "golang.org/x/crypto/curve25519",
+			"revision": "94eea52f7b742c7cbe0b03b22f0c4c8631ece122",
+			"revisionTime": "2017-11-28T01:43:40Z"
+		},
+		{
+			"checksumSHA1": "1hwn8cgg4EVXhCpJIqmMbzqnUo0=",
+			"path": "golang.org/x/crypto/ed25519",
+			"revision": "94eea52f7b742c7cbe0b03b22f0c4c8631ece122",
+			"revisionTime": "2017-11-28T01:43:40Z"
+		},
+		{
+			"checksumSHA1": "LXFcVx8I587SnWmKycSDEq9yvK8=",
+			"path": "golang.org/x/crypto/ed25519/internal/edwards25519",
+			"revision": "94eea52f7b742c7cbe0b03b22f0c4c8631ece122",
+			"revisionTime": "2017-11-28T01:43:40Z"
+		},
+		{
+			"checksumSHA1": "R9/BEjpj6VT5IZN6EDPs4gjMJz0=",
+			"path": "golang.org/x/crypto/ssh",
+			"revision": "94eea52f7b742c7cbe0b03b22f0c4c8631ece122",
+			"revisionTime": "2017-11-28T01:43:40Z"
+		},
+		{
+			"checksumSHA1": "X1NTlfcau2XcV6WtAHF6b/DECOA=",
+			"path": "golang.org/x/crypto/ssh/terminal",
+			"revision": "94eea52f7b742c7cbe0b03b22f0c4c8631ece122",
+			"revisionTime": "2017-11-28T01:43:40Z"
+		},
+		{
+			"checksumSHA1": "SIhhNXud9FKua0s3WlGPRRkDKRg=",
+			"path": "golang.org/x/sys/unix",
+			"revision": "8b4580aae2a0dd0c231a45d3ccb8434ff533b840",
+			"revisionTime": "2017-11-30T16:26:51Z"
+		},
+		{
+			"checksumSHA1": "riTVymIu2BFphV6UlA73Fn9tmmU=",
+			"path": "golang.org/x/sys/windows",
+			"revision": "8b4580aae2a0dd0c231a45d3ccb8434ff533b840",
+			"revisionTime": "2017-11-30T16:26:51Z"
+		},
+		{
+			"checksumSHA1": "Omo/Z5hYCGVrR6tDwoJWUCSQgNg=",
+			"path": "gopkg.in/cheggaaa/pb.v1",
+			"revision": "657164d0228d6bebe316fdf725c69f131a50fb10",
+			"revisionTime": "2017-08-24T10:41:20Z"
+		},
+		{
+			"checksumSHA1": "PJvzoe4Xelb9ZwRZuc/KArtMd2Q=",
+			"path": "gopkg.in/satori/go.uuid.v1",
+			"revision": "879c5887cd475cd7864858769793b2ceb0d44feb",
+			"revisionTime": "2016-06-07T14:43:47Z"
+		},
+		{
+			"checksumSHA1": "+TtC0FEob9x4rZZd3s38wTDljgo=",
+			"path": "gopkg.in/sirupsen/logrus.v1",
+			"revision": "f006c2ac4710855cf0f916dd6b77acf6b048dc6e",
+			"revisionTime": "2017-08-15T20:20:55Z"
+		},
+		{
+			"checksumSHA1": "fRgp9UZPllOlkPssv7frzQx4z9A=",
+			"path": "gopkg.in/yaml.v2",
+			"revision": "287cf08546ab5e7e37d55a84f7ed3fd1db036de5",
+			"revisionTime": "2017-11-16T09:02:43Z"
+		}
+	],
+	"rootPath": "github.com/NextThingCo/gadgetcli"
+}
